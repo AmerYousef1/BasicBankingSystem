@@ -1,0 +1,8 @@
+﻿  BasicBankingSystemProject.cpp
+C:\Users\aamoo\source\repos\BasicBankingSystemProject\BasicBankingSystemProject\BasicBankingSystemProject.cpp(116,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\aamoo\source\repos\BasicBankingSystemProject\BasicBankingSystemProject\BasicBankingSystemProject.cpp(356,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aamoo\source\repos\BasicBankingSystemProject\BasicBankingSystemProject\BasicBankingSystemProject.cpp(319,1): warning C4715: 'DespositMenu': not all control paths return a value
+C:\Users\aamoo\source\repos\BasicBankingSystemProject\BasicBankingSystemProject\BasicBankingSystemProject.cpp(352,1): warning C4715: 'WithdrawMenu': not all control paths return a value
+C:\Users\aamoo\source\repos\BasicBankingSystemProject\BasicBankingSystemProject\BasicBankingSystemProject.cpp(380,1): warning C4715: 'TransactionScreenNavigator': not all control paths return a value
+C:\Users\aamoo\source\repos\BasicBankingSystemProject\BasicBankingSystemProject\BasicBankingSystemProject.cpp(413,1): warning C4715: 'ScreenNavigator': not all control paths return a value
+  BasicBankingSystemProject.vcxproj -> C:\Users\aamoo\source\repos\BasicBankingSystemProject\x64\Debug\BasicBankingSystemProject.exe
